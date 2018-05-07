@@ -35,3 +35,4 @@
 |Singapore PowerShell User Group|[Milton Goh](https://twitter.com/miltongoh)|Singapore, Singapore| [Meetup](https://www.meetup.com/mssgug/)|||
 |Yangon PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Yangon, Myanmar| [Meetup](https://www.meetup.com/Yangon-PowerShell-Group/)|[@psugygn](https://twitter.com/PSUGYGN)|[psugygn@gmail.com](mailto:psugygn@gmail.com)|
 |Manila PowerShell User Group|[Sebastian Szumigalski](https://twitter.com/SzumigalskiS)|Manila, Philipines| [Meetup](https://www.meetup.com/Manila-PowerShell-User-Group/)|[@psugmnl](https://twitter.com/PSUGMNL)|[psugmnl@gmail.com](mailto:psugmnl@gmail.com)|
+|Milwaukee PowerShell User Group|[Paul DeArment](https://twitter.com/pdearmen), Jacob Kratt, and Matthew Bley|Milwaukee, Wi| [Meetup](https://www.meetup.com/Milwaukee-Powershell-Meetup/)|[@PWSHMilwaukee](https://twitter.com/PWSHMilwaukee)|N/A currently|
